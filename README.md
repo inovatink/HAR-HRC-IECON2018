@@ -19,6 +19,8 @@ The dataset at hand contains calibrated tri-axial accelerometer signals collecte
 |   7 (55)   |       check trunk gaps       |
 |   8 (56)   |     open and close trunk     |
 |   9 (57)   |     check steering wheel     |
+
+
 Table 1. Activities and classes
 
 ## References
